@@ -10,6 +10,7 @@ https://krishnavetthib.hashnode.dev/hyper-text-markup-language-html-tags
 https://krishnavetthib.hashnode.dev/what-are-css-selectors
 
 4.Positions, Flex, Grid, Media (CSS Box Model (Padding, Margin, Border))
+https://krishnavetthib.hashnode.dev/css-box-model-and-css-layout
 
 5.Complete Guide on Arrays Methods in Javascript!!
 https://krishnavetthib.hashnode.dev/complete-guide-on-arrays-methods-in-javascript
